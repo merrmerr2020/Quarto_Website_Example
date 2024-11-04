@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "R-4.4.1-Quarto_Website_Example"
